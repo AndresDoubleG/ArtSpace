@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">ArtSpace</string>
+
+    <string name="wbc">El descubrimiento del pulque, José María Obregón Clasic</string>
+    <string name="wbc_description">Al volverse una nación independiente,
+        México comenzó a buscar en su pasado los símbolos,
+        historias y personajes necesarios para legitimar su originalidad y
+        grandeza cultural ante otras naciones y los propios mexicanos.
+        En este cuadro puedes observar una escena de imaginación prehispánica,
+        utilizando una composición común entre los cuadros de historia para relatar
+        el encuentro entre Xochitl y Papantzin, descubridores del pulque,
+        y el rey tolteca Tepalcatzin.</string>
+
+    <string name="grup_a">Mujeres bonitas de México Pintura al Óleo
+     </string>
+    <string name="grup_a_description">Jesús Helguera
+     Pintura Mexicana de Paisajes y Costumbres de México </string>
+
+    <string name="grup_b">"La Conquista" o "Fusión de dos Culturas", Jorge González Camarena.</string>
+    <string name="grup_b_description">El guerrero águila y el conquistador español
+        mueren al mismo tiempo en la lucha y surge la nueva raza mestiza en Mesoamérica.
+        Museo Nacional de Historia de México en el Castillo de Chapultepec.
+        (crosspost r/LatinAmerica)</string>
+
+    <string name="grup_c">La ofrenda, Saturnino Herrán</string>
+    <string name="grup_c_description">Algunos conocimos esta obra del Hidrocálido desde
+        nuestra infancia en libros de texto, lo que probablemente no sabíamos es que
+        no sólo hace referencia a la tradición del Día de Muertos, es también una alegoría
+        de la vida pues en la trajinera encontramos a un bebé, una niña, un joven,
+        una dama y dos ancianos, por detrás los siguen otras trajineras que también recorren
+        el río de la vida el cual inevitablemente desemboca en la muerte representada
+        por la flor de cempasúchil.</string>
+
+    <string name="grup_d">Retrato de Sor Juana Inés de la Cruz, Miguel Mateo Maldonado y Cabrera</string>
+    <string name="grup_d_description">A pesar de la creencia popular, este retrato del
+        “Fénix de América”, fue creado años después de la muerte de Sor Juana y en realidad
+        es una representación iconográfica de los atributos admirables de esta mujer.
+        la colocó en un estudio lleno de libros para resaltar su inteligencia
+        y pasión por la ciencia, la vistió con sus hábitos de la orden de las jerónimas
+        además del escudo de monjas y colocó diferentes frases en latín aludiendo a la
+        importancia y estudio de Sor Juana. Sin duda la génesis de un símbolo nacional.</string>
+
+    <string name="Schedule">Sueño de una tarde dominical en la Alameda Central, Diego Rivera</string>
+    <string name="Schedule_description">Aunque se podría hacer un top similar con
+        las obras del muralismo mexicano, elegí esta por dos motivos, una por el autor,
+        quien junto con Frida tal vez sean los más famosos en el extranjero, y dos,
+        porque este mural es un collage de los personajes históricos destacados
+        por la historia nacionalista, además está lleno de simbolismos, incluyendo a la
+        famosa catrina de Posada. Podrías pasar unas cuantas horas tratando de
+        poner rostro a todos los personajes representados.</string>
+
+</resources>
